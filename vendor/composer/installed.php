@@ -3,7 +3,7 @@
         'name' => 'anilonay/demo',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '544970ecabb1fbb601a326eef4b8493133e8feba',
+        'reference' => 'ad86e8cab456df6506dbcae201aba398d14d67db',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'anilonay/demo' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '544970ecabb1fbb601a326eef4b8493133e8feba',
+            'reference' => 'ad86e8cab456df6506dbcae201aba398d14d67db',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
