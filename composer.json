@@ -6,5 +6,21 @@
             "email": "cengizhananilonay@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^10.25"
+    },
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "Core/",
+            "Http\\" : "Http/"
+        }
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.20"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
 }
