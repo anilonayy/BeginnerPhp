@@ -4,7 +4,6 @@ use Core\Session;
 use Core\ValidationException;
 
 session_start();
-$_SESSION['name'] = 'Anil';
 
 const BASE_PATH = __DIR__.'/../';
 
